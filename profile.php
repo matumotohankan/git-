@@ -16,7 +16,8 @@
         </div><!-- container-profile-photo -->
         <div class="container-profile-text">
           <p>名前：松本 ハンカン</p>
-          <p></p>
+          <p>ナポレオンとか草
+          </p>
         </div><!-- container-profile-text -->
 </div>
 
