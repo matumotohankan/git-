@@ -9,6 +9,17 @@
 </head>
 <body>
     <h1>Git・PHP・SQL テスト課題</h1>
+    
+    <section class="container-profile">
+        <div class="container-profile-photo">
+          <img src="3843.jpg">
+        </div><!-- container-profile-photo -->
+        <div class="container-profile-text">
+          <p>名前：みたしょうこ</p>
+          <p>ナポレオンとか花
+          </p> 
+   
+   
     <div class ="container">
         <section class="container-profile">
         <div class="container-profile-photo">
