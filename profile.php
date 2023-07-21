@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="git.css">
     <title>Git/PHP/SQL test assignment</title>
 </head>
 <body>
     <h1>Git・PHP・SQL テスト課題</h1>
-    <div class ="container">
+    <div class ="con">
         <section class="container-profile">
         <div class="container-profile-photo">
           <img src="img_e9c1455da650b345b11e216d4f018093245490.jpg">
@@ -19,7 +19,18 @@
           <p>ナポレオンとか草
           </p>
         </div><!-- container-profile-text -->
-</div>
+    </div>
+
+    <div class="con2">
+
+
+
+    </div>
+    </div>
+
+
+
+
 
         </section><!-- container-profile -->
         <section class="container-form">
